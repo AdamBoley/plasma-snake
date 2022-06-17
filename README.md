@@ -106,3 +106,11 @@ Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` f
 ---
 
 Happy coding!
+
+
+
+FOR ASH:
+
+to add changes: `git add .`
+To commit changes: `git commit -m <message here>`
+To push: `git push`
