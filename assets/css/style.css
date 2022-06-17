@@ -1,0 +1,23 @@
+h1 {
+    text-transform: uppercase;
+}
+
+.heading {
+    text-transform: uppercase;
+}
+
+#heading {
+    text-transform: lowercase;
+}
+
+p {
+    font-weight: 900;
+}
+
+.blue {
+    background-color: aqua;
+}
+
+#button-content {
+    display: none;
+}
