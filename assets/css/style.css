@@ -8,8 +8,26 @@
     background-color:chartreuse;
 }
 
+#coloured-circle {
+    background-color:darkorchid;
+    border: 5px solid black;
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+}
+
 #big-green {
     color:chartreuse;
     font-size:larger;
     background-color: black;
+}
+
+#paragraph-test1 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font: size 300%;
+}
+
+#paragraph-test2 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:x-large;
 }
