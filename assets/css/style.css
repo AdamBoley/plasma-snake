@@ -31,3 +31,15 @@
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size:x-large;
 }
+
+.jed {
+    font-size: larger;
+    font-weight: 700;
+    text-decoration: underline;
+    color: blue;
+    background-color: burlywood;
+}
+
+#jed {
+    display: none;
+}
